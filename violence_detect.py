@@ -1,9 +1,9 @@
 import boto3
 from botocore.client import Config
 
-ACCESS_KEY_ID = 'AKIAYDGH2YSU62TJVVCT'
-ACCESS_SECRET_KEY = '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'
-BUCKET_NAME = 'intelbucket'
+ACCESS_KEY_ID = ''
+ACCESS_SECRET_KEY = ''
+BUCKET_NAME = ''
 
 
 data = open('7b82749466e76b11ca11e6e85eec6225.3.jpg', 'rb')
