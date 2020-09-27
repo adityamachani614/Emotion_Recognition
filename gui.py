@@ -116,8 +116,8 @@ def work():
 		import boto3
 		from botocore.client import Config
 
-		ACCESS_KEY_ID = 'AKIAYDGH2YSU62TJVVCT'
-		ACCESS_SECRET_KEY = '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'
+		ACCESS_KEY_ID = ''
+		ACCESS_SECRET_KEY = ''
 		BUCKET_NAME = 'intelbucket'
 
 
